@@ -15,8 +15,8 @@ resultado”);
 
 const perguntas = [
 {
-enunciado: “Pergunta 1”,
-alternativas: [“Alternativa 1”, “Alternativa 2”],
+enunciado: “Quem é Maria Eugênia Raposo?”,
+alternativas: [“Miss”, “Influencer Digital”],
 },
 {
 enunciado: “Pergunta 2”,
