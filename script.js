@@ -6,43 +6,43 @@ const textoResultado = document.querySelector(".texto-resultado");
 
 const perguntas = [
 {
-    enunciado: "Pergunta 1",
+    enunciado: "Biscoito ou Bolacha?",
     alternativas: [
         {
-            texto:"Alternativa 1",
+            texto:"Biscoito",
             afirmacao: "Afirmação 1"
         },
         {
-        texto:"Alternativa 2",
+        texto:"Bolacha",
         afirmacao: "Afirmação 2"
         }
     ]
 },
 
 {
-    enunciado: "Pergunta 2",
+    enunciado: "Feijão por cima ou por baixo?",
     alternativas: [
         {
 
-        texto: "Alternativa 1 da pergunta 2",
+        texto: "por Cima",
         afirmacao: "Afirmação 1 da pergunta 2"
         },
         {
-        texto:"Alternativa 2 da pergunta 2",
+        texto:"Por Baixo",
         afirmacao: "Afirmação 2 da pergunta 2"
         }
     ]
 },
 
 {
-    enunciado: "Pergunta 3",
+    enunciado: "Nescau ou Toddy?",
     alternativas: [
         {
-        texto:"Alternativa 1 da pergunta 3",
+        texto:"Nescau",
         afirmacao: "Afirmação 1 da pergunta 3"
         },
         {
-        texto:"Alternativa 2 da pergunta 3",
+        texto:"Toddy",
         afirmacao: "Afirmação 2 da pergunta 3"
         }
     ]
